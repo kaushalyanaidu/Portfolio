@@ -2,7 +2,6 @@
   "name": "kaushalya-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://kaushalyanaidu.github.io/Portfolio",
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "framer-motion": "^12.12.2",
